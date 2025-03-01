@@ -50,3 +50,5 @@ WellSpent is an **AI-powered financial planning app** designed to help users **e
 - **Jupyter Notebook** (for model training & testing)
 - **Flask/FastAPI** (for backend API integration - future implementation)
 - **Singpass API, MOH & CPF APIs** (for real-time data retrieval)
+
+## Link to out-of-pocket calculator: https://outofpock.streamlit.app/ 
