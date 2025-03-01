@@ -4,18 +4,18 @@
 WellSpent is an **AI-powered financial planning app** designed to help users **estimate, predict, and optimize their healthcare expenses**. It provides real-time cost estimations, AI-driven policy matching, and predictive modeling for future medical expenses.
 
 ## Key Features
-✔️ **Real-time Hospital Cost Estimator** - Uses actual hospital fee data to predict medical expenses.
-✔️ **AI-Powered Insurance Policy Matching** - Suggests the best insurance coverage based on health & financial needs.
-✔️ **Future Healthcare Cost Prediction** - Machine learning models estimate hospitalization & medication costs.
-✔️ **Grants & Reimbursement Tracking** - Helps users maximize available subsidies & reimbursements.
-✔️ **Seamless Singpass Integration** - Pulls real-time healthcare data for better accuracy.
+**Real-time Hospital Cost Estimator** - Uses actual hospital fee data to predict medical expenses.
+**AI-Powered Insurance Policy Matching** - Suggests the best insurance coverage based on health & financial needs.
+**Future Healthcare Cost Prediction** - Machine learning models estimate hospitalization & medication costs.
+**Grants & Reimbursement Tracking** - Helps users maximize available subsidies & reimbursements.
+**Seamless Singpass Integration** - Pulls real-time healthcare data for better accuracy.
 
 ## How It Works
-1️⃣ **User Logs in with Singpass** → Auto-fetches healthcare & insurance details.
-2️⃣ **Dashboard Overview** → Displays estimated out-of-pocket costs & insurance coverage.
-3️⃣ **AI Analysis** → Predicts future medical expenses & coverage gaps.
-4️⃣ **Policy Recommendations** → Suggests optimized insurance plans.
-5️⃣ **Real-time Updates** → Tracks grants, reimbursements & policy changes.
+1. **User Logs in with Singpass** → Auto-fetches healthcare & insurance details.
+2. **Dashboard Overview** → Displays estimated out-of-pocket costs & insurance coverage.
+3. **AI Analysis** → Predicts future medical expenses & coverage gaps.
+4. **Policy Recommendations** → Suggests optimized insurance plans.
+5. **Real-time Updates** → Tracks grants, reimbursements & policy changes.
 
 ## Installation & Setup
 ### **Prerequisites**
